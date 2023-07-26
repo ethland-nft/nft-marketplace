@@ -1,6 +1,6 @@
 # Welcome to ETHLAND NFT
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+All the code in these repos was created and explained by HashLips on the main YouTube channel https://www.youtube.com/watch?v=fzH7Gjadmj0 
 
 # The ETHLAND NFT minting dapp 🔥
 
